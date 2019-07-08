@@ -13,7 +13,8 @@ namespace Algorithms.Csharp.Sorting
             int[] arr = new int[] { 3, 8, 2, 0, 9, 5, 1, 8, 11, 7, 35, 1 };
 
             // SelectionSort.Sort(arr);
-            BubbleSort.Sort(arr);
+            // BubbleSort.Sort(arr);
+            InsertionSort.Sort(arr);
 
             for (int i = 0; i < arr.Length; i++)
             {
