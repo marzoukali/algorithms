@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms
 
 # Sorting:
  - Sorting is arranging the elements in a list or collection in increasing or decreasing order of some property.
