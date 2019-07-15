@@ -1,3 +1,20 @@
+# Data Structures:
+- A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+
+# Data Structures Categories:
+
+- Primitive or Non-primitive:
+
+ 1- Primitive Data Structures (Integer, float, char, pointer).
+ 
+ 2- Non-primitive Data Structures (Array, List [Non-Linear: Tree, Graph & Linear: Stack, Queue], File).
+
+- Physical or Dynamic:
+
+ 1- Physical Data Structures (Arrays, Matrices, Linked Lists).
+ 
+ 2- Dynamic Data Structures (Stack, Queue, Tree, Graph, Hash Table).
+
 # Algorithms
 
 # Sorting:
