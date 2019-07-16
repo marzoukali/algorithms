@@ -1,19 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
 
-int main()
-{
-    printf("Hello world!\n");
-    printf("\n###############################\n");
-
-    // Specific C environment and IDE stuff
-
-    //  switch to C99 mode:
-    // To switch to C99 mode in CodeBlocks, follow the next steps:
-    // Click Project/Build options, then in tab Compiler Settings choose subtab Other options, and place -std=c99 in the text area, and click Ok.
-    // This will turn C99 mode on for your Compiler.
+#include "arrays_basics.h"
 
 
+void show_one_dimentional_arrays_basics(){
 
     // Declare an manipulate the array
     printf("Declare an manipulate the array");
@@ -52,10 +41,4 @@ int main()
        printf("The %d item is: %d \n",i, arr3[i]);
     }
     printf("\n###############################\n");
-
-
-
-    printf("\nPress ENTER key to Continue\n");
-    getchar(); //  system("pause");
-    return 0;
 }
