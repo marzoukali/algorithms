@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563318087 source:d:\technical\algorithms\c\src\basics-c\arrays_basics.c
+	"arrays_basics.h"
+
+1563317509 d:\technical\algorithms\c\src\basics-c\arrays_basics.h
+	<stdio.h>
+	<stdlib.h>
+
