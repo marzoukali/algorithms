@@ -6,9 +6,13 @@
 int main()
 {
     printf("Hello world!\n");
-    printf("\n###############################\n");
+    printf("\n############Arrays###################\n");
 
     show_one_dimentional_arrays_basics();
+
+    printf("\n############Structures###################\n");
+
+    show_Structures_basics();
 
     printf("\nPress ENTER key to Continue\n");
     getchar(); //  system("pause");
