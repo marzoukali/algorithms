@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563723635 source:d:\technical\cs-notes\c\src\strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string_reverse.h"
+
+1563724985 d:\technical\cs-notes\c\src\strings\string_reverse.h
+
+1563721897 source:d:\technical\cs-notes\c\src\strings\string_reverse.c
+	"string_reverse.h"
+
+1563922802 source:d:\technical\cs-notes\c\src\strings\stack.c
+
