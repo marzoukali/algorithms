@@ -42,3 +42,25 @@ void show_one_dimentional_arrays_basics(){
     }
     printf("\n###############################\n");
 }
+
+
+void print_array(int *arr, int length)
+{
+    int i;
+    for(i=0; i<length; ++i)
+    {
+        printf("%d ", arr[i]);
+    }
+}
+
+int* Generate_array(int length)
+{
+    int *arr = (int *)malloc(length*sizeof(int));
+
+    int i;
+    for(i=0; i<length; ++i)
+    {
+        arr[i] = i*2;
+    }
+    return (arr);
+}
